@@ -1,0 +1,6 @@
+{
+  "name": "ZenTerm",
+  "description": "A minimalist, distraction-free terminal emulator with custom themes, multi-tab support, Bash/Zsh modes, and fluid visual options.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
